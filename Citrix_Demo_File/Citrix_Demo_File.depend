@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490347419 source:e:\codeblockproj\myprincess\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<array>
+	<windows.h>
+
